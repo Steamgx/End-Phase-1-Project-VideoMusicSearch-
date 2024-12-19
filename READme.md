@@ -22,3 +22,6 @@ A simple web application that allows users to search and view video music tracks
    ```bash
    git clone https://github.com/Steamgx/End-Phase-1-Project-VideoMusicSearch-.git
    cd video-music-search
+
+   
+///Note: The app uses a proxy URL (https://cors-anywhere.herokuapp.com/) to bypass CORS issues while fetching data. You may need to set up your own CORS proxy or request access for the external API.///
